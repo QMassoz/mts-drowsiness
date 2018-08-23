@@ -6,7 +6,7 @@
 - CUDNN version: 5.1.10
 - TORCH7 git commit: 5beb83c46e91abd273c192a3fa782b62217072a6
 
-## DATASET
+## Drowsiness dataset
 
 * Sequence of eyelids distances: are in data/raw/eld-seq folder, with filenames "SUBJECT-TEST.t7"
 * Reaction times: are in data/raw/rt folder, with filename "SUBJECT-TEST.txt"
